@@ -1,1 +1,2 @@
 esto estoy reemplazando
+mi segunda linea a agregar dentro de master
