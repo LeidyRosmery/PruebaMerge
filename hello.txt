@@ -1,2 +1,6 @@
 esto estoy reemplazando
+<<<<<<< HEAD
 mi segunda linea a agregar dentro de master
+=======
+estoy probando mi branch
+>>>>>>> nuevo_branch
